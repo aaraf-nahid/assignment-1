@@ -89,3 +89,103 @@ border-radius: 8px;
 background: rgb(13, 19, 33);
 
 }
+.first{
+    width: 1140px;
+    height: 1392px;
+background-color: rgba(13, 19, 33, 0.02);
+margin:74px 152px 52px 148px;
+padding: 80px 97px;
+display: flex;
+flex-direction: column;
+text-align: center;
+}
+.first .card-header{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 24px;
+}
+.card-p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin-bottom: 48px;
+}
+.first-card{
+    display: flex; 
+    align-items: center;
+    padding: 48px;
+    border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+margin-bottom: 32px;
+}
+
+.second-card{
+    display: flex; 
+    align-items: center;
+    padding: 48px;
+    border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+margin-bottom: 32px;
+justify-content: space-between;
+}
+    .third-card{
+        display: flex; 
+        align-items: center;
+        padding: 48px;border-radius: 16px;
+        background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    }
+    .btn-frimary{
+        color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+/* text-align: center; */
+        box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+margin-top: 48px;
+margin-right: 320px;
+    }
+.header-primary{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 16;
+margin-right: 78px;
+}
+.p-primary{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin-right: 9px;
+}
+.first-card-style{
+    margin-right: 98px;
+}
+.second-card-style{
+    margin-right: 98px;
+}
+.third-card-style{
+    margin-right: 98px;
+}
