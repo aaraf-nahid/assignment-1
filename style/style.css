@@ -383,3 +383,18 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
 margin-top: 24px;
+}
+.end{
+    margin: 32px 150px;
+    align-content: space-between;
+}
+.end-container{
+     display: flex;
+    align-content: space-between;
+}
+.end-container ol{
+    display: flex;
+    list-style: none;
+    margin-left: 512px;
+    gap: 5px;
+}
