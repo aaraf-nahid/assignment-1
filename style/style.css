@@ -189,3 +189,197 @@ margin-right: 9px;
 .third-card-style{
     margin-right: 98px;
 }
+.second{
+    width: 1140px;
+    height: 775px;
+    margin-right: 152px;
+    margin-left: 148px;
+}
+.inspiration{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.second .inspiration h3{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 24px;
+}
+.second .inspiration p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin-bottom: 48px;
+}
+.youtube{
+    height: 614px;
+    width: 1040px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+margin-bottom: 152px;
+
+}
+.box{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 150px;
+}
+.box .box-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 460px;
+}
+.box-header{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+    margin-left: 294px;
+    margin-right: 294px;
+}
+.box-p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin-left: 247px;
+margin-right: 247px;
+}
+.box-all{
+    display: flex;
+    margin-top: 46px;
+    gap: 24px;
+}
+.box-first{
+    padding: 40px;
+    border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+}
+.box-second{
+    padding: 40px;border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    border-radius: 16px;
+}
+.box-third{
+    padding: 40px;
+    border-radius: 16px;
+background: rgba(255, 223, 0, 0.05);
+}
+.box-btn{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+margin-top: 24px;
+border: none;
+}
+.box-h{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin-top: 8px;
+}
+.box-hp{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 24px;
+}
+.support{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    height: 313px;
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+    border-radius: 16px;
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 46px 48px;
+    border-radius: 16px;
+}
+.supporrt-h{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 16px;
+}
+.support-p{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin-bottom: 24px;
+}
+#btn input{
+    width: 548px;
+    padding: 19px 20px 19px 20px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+color: rgba(13, 19, 33, 0.4);
+font-family: Azeret Mono;
+font-size: 12px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+}
+.support-btn{
+    padding: 15px 20px 19px 20px;
+    color: rgb(13, 19, 33);
+    border-radius: 8px;
+background: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 24px;
